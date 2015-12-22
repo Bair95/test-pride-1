@@ -4,3 +4,6 @@ repositories {
 dependencies {
 	compile 'org.springframework:spring-core:4.0.7.RELEASE'
 }
+
+group = "fr.ber.test1"
+version = "1.0"
