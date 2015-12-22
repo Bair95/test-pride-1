@@ -1,0 +1,6 @@
+repositories {
+	mavenCentral()
+}
+dependencies {
+	compile 'org.springframework:spring-core:4.0.7.RELEASE'
+}
